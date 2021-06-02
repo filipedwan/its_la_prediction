@@ -1,2 +1,2 @@
-# its_la_prediction
+# Learning analytics course
 Predicting CS1 students' final grades.
